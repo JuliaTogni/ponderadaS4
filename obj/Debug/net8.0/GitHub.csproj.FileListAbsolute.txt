@@ -15,3 +15,4 @@ C:\Users\Inteli\Documents\GitHub\ponderadaS4\obj\Debug\net8.0\refint\GitHub.dll
 C:\Users\Inteli\Documents\GitHub\ponderadaS4\obj\Debug\net8.0\GitHub.pdb
 C:\Users\Inteli\Documents\GitHub\ponderadaS4\obj\Debug\net8.0\GitHub.genruntimeconfig.cache
 C:\Users\Inteli\Documents\GitHub\ponderadaS4\obj\Debug\net8.0\ref\GitHub.dll
+C:\Users\Inteli\Documents\GitHub\ponderadaS4\obj\Debug\net8.0\GitHub.sourcelink.json
